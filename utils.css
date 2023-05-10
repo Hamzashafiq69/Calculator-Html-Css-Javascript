@@ -1,0 +1,28 @@
+.container{
+margin-top: 30px;
+}
+.text-center{
+    text-align: center;
+    margin-top: 30px;
+}
+.bg-red{
+    background-color: red;
+}
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    justify-content: center;
+align-items: center;
+}
+.input{
+    padding: 15px 100px;
+    margin-bottom: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
